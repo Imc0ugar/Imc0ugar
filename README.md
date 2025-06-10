@@ -35,6 +35,11 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Imc0ugar/Imc0ugar)
 
+## :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **Imc0ugar/Imc0ugar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
